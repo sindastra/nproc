@@ -10,6 +10,7 @@
  * @author Sindastra
  * @date 2024-12-18
  * @since 2024-12-18
+ * @license EUPL-1.2
  * @link https://github.com/sindastra/nproc
  */
 
